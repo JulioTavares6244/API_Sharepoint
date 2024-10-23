@@ -1,0 +1,27 @@
+A pasta "yourdatalake" não é um datalake de verdade, 
+mas um exemplo da disposição de diretórios e dados em um datalake,
+que armazenaria dados vindos da ferramenta da Microsoft "Central de Projetos".
+Muito utilizada no gerenciamento e gestão de projetos em várias organizações,
+como por exemplo o Ministério dos Transportes e o Ministério de Portos e Aeroportos.
+
+O exemplo desses cadernos de uma extração e transformação de dados, tem por pano de fundo, 
+uma arquitetura Azure Microsoft, usando tenants e client id's relacionado a esse ferramentário. 
+Mas nada impede de ser adaptado para a arquitetura de dados que você tem disponível.
+
+Essa documentação conta com os cadernos do Databricks de conexão de API, Handlers e 
+Helper Functions para facilitar criação de uma API semelhante e poupar seu tempo 
+para que você o possa utilizar em outras atividades que exigem maior atenção.
+
+Há também dois exemplos de cadernos de modelagem de dados: um de extração, utilizando
+um arquivo já extraido com uma mistura de informações vindos diretamente do Sharepoint
+para a criação de um novo arquivo; e um de transformação desses dados, dispondo deles
+na sua camada silver, de seu Data Lake, para te dar uma ideia de como você pode utilizar
+o Python e Pyspark para modelagem de dados.
+
+Os cadernos partem do pré-suposto que a extração do conjunto de dados "Projetos" 
+já foi feita por intermédio de um Pipeline, com uma atividade de CopyData do ADF (Azure Data Factory) 
+e tem disponiveis cadernos de extração e transformação dos dados de uma lista Sharepoint 
+de "Ações" dos projetos nas nas páginas da CP (Central de Projetos).
+
+
+Espero que isso ajude e boa sorte em sua jornada em TI!!! ;-)
