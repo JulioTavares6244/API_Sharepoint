@@ -1,23 +1,25 @@
-# ⚔️ Bem-vindo ao Repositório de API para SharePoint ⚔️
+# ⚔️ Welcome to my SharePoint API Repository ⚔️
 
-## 📜 Descrição
+## 📜 Description
 
-Este é o repositório de uma **API para SharePoint** que inclui um **Estudo de Caso de Modelagem de Dados**. O objetivo deste projeto é fornecer uma base sólida e útil para desenvolvedores que desejam integrar e manipular dados no SharePoint.
+This is the repository for a **SharePoint API** that includes a **Data Modeling Case Study**. The goal of this project is to provide a solid and useful foundation for developers looking to integrate and manipulate data in SharePoint.
 
-### 🚀 Recursos
+### 🚀 Features
 
-- API RESTful para interações com o SharePoint
-- Exemplos de modelagem de dados
-- Documentação detalhada
+- RESTful API for interactions with SharePoint
+- Data modeling examples
+- Comprehensive documentation (ONLY IN PT-BR)
 
-### 🛠️ Tecnologias Usadas
+### 🛠️ Technologies Used
 
 - Python
-- Azure Databricks
+- Azure Databricks (Jupyter Notebooks or Google Colab also work)
 - Microsoft Project
 
 ---
 
-## 🎉 Agradecimentos
+## 🎉 Acknowledgments
 
-Espero que isso ajude e boa sorte em sua jornada em TI! 😉
+I hope this helps, and good luck on your journey in IT! Feel free to let me know if you need any further explanations about the API! 😉
+
+--- 
